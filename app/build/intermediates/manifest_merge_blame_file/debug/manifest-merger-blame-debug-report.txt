@@ -29,62 +29,63 @@
 18-->[androidx.core:core:1.9.0] C:\Users\David\.gradle\caches\transforms-3\3dbdebe5616f35ea14ff987369494724\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 19
 20    <application
-20-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:6:5-33:19
+20-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:7:5-34:19
 21        android:allowBackup="true"
-21-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:7:9-35
+21-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:8:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 22-->[androidx.core:core:1.9.0] C:\Users\David\.gradle\caches\transforms-3\3dbdebe5616f35ea14ff987369494724\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 23        android:dataExtractionRules="@xml/data_extraction_rules"
-23-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:8:9-65
+23-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:9:9-65
 24        android:debuggable="true"
 25        android:extractNativeLibs="false"
 26        android:fullBackupContent="@xml/backup_rules"
-26-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:9:9-54
-27        android:icon="@mipmap/ic_launcher"
-27-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:10:9-43
-28        android:label="@string/app_name"
-28-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:11:9-41
-29        android:roundIcon="@mipmap/ic_launcher_round"
-29-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:12:9-54
-30        android:supportsRtl="true"
-30-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:13:9-35
-31        android:testOnly="true"
-32        android:theme="@style/Theme.Material3.Light" >
-32-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:14:9-53
-33        <activity
-33-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:16:9-19:40
-34            android:name="com.example.utilapp.Registro"
-34-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:17:13-37
-35            android:exported="false"
-35-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:19:13-37
-36            android:theme="@style/Theme.Material3.Light.NoActionBar" />
-36-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:18:13-69
-37        <activity
-37-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:20:9-28:20
-38            android:name="com.example.utilapp.Login"
-38-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:21:13-34
-39            android:exported="true"
-39-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:23:13-36
-40            android:theme="@style/Theme.Material3.Light.NoActionBar" >
-40-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:22:13-69
-41            <intent-filter>
-41-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:24:13-27:29
-42                <action android:name="android.intent.action.MAIN" />
-42-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:25:17-69
-42-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:25:25-66
-43
-44                <category android:name="android.intent.category.LAUNCHER" />
-44-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:26:17-77
-44-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:26:27-74
-45            </intent-filter>
-46        </activity>
-47        <activity
-47-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:29:9-32:20
-48            android:name="com.example.utilapp.MainActivity"
-48-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:30:13-41
-49            android:exported="true" >
-49-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:31:13-36
-50        </activity>
+26-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:10:9-54
+27        android:label="@string/app_name"
+27-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:11:9-41
+28        android:supportsRtl="true"
+28-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:12:9-35
+29        android:testOnly="true"
+30        android:theme="@style/Theme.Material3.Light" >
+30-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:13:9-53
+31        <activity
+31-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:15:9-22:20
+32            android:name="com.example.utilapp.Splash"
+32-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:16:13-35
+33            android:exported="true" >
+33-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:17:13-36
+34            <intent-filter>
+34-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:18:13-21:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:19:17-69
+35-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:19:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:20:17-77
+37-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:20:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:23:9-26:72
+41            android:name="com.example.utilapp.Registro"
+41-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:24:13-37
+42            android:exported="false"
+42-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:25:13-37
+43            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+43-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:26:13-69
+44        <activity
+44-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:27:9-30:72
+45            android:name="com.example.utilapp.Login"
+45-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:28:13-34
+46            android:exported="false"
+46-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:29:13-37
+47            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+47-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:30:13-69
+48        <activity
+48-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:31:9-33:48
+49            android:name="com.example.utilapp.MainActivity"
+49-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:32:13-41
+50            android:exported="true" />
+50-->C:\Users\David\AndroidStudioProjects\UtilApp\app\src\main\AndroidManifest.xml:33:13-36
 51        <activity
 51-->[com.google.firebase:firebase-auth:21.3.0] C:\Users\David\.gradle\caches\transforms-3\cae931fdc6e45f2a92ca59057bdddb95\transformed\firebase-auth-21.3.0\AndroidManifest.xml:29:9-46:20
 52            android:name="com.google.firebase.auth.internal.GenericIdpActivity"

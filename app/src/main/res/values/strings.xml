@@ -6,4 +6,5 @@
     <string name="registro">Registro</string>
     <string name="click_para_logearse">Click para logearse</string>
     <string name="click_para_registrarse">Click para Registrarse</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
 </resources>
