@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.example.utilapp.calculadora;
 
 public class MainActivity extends AppCompatActivity {
     FirebaseAuth auth;
@@ -25,22 +26,26 @@ public class MainActivity extends AppCompatActivity {
         button = findViewById(R.id.logout);
         textView = findViewById(R.id.user_details);
         user = auth.getCurrentUser();
-        if (user == null){
-            Intent intent =new Intent(getApplicationContext(), Login.class);
+        if (user == null) {
+            Intent intent = new Intent(getApplicationContext(), Login.class);
             startActivity(intent);
             finish();
-        }
-        else {
+        } else {
             textView.setText(user.getEmail());
         }
-           button.setOnClickListener(new View.OnClickListener() {
-               @Override
-               public void onClick(View v) {
-                   FirebaseAuth.getInstance().signOut();
-                   Intent intent =new Intent(getApplicationContext(), Login.class);
-                   startActivity(intent);
-                   finish();
-               }
-           });
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                FirebaseAuth.getInstance().signOut();
+                Intent intent = new Intent(getApplicationContext(), Login.class);
+                startActivity(intent);
+                finish();
+            }
+        });
+    }
+
+    public void startCalculadoraActivity(View view) {
+        Intent intent = new Intent(this, calculadora.class);
+        startActivity(intent);
     }
 }

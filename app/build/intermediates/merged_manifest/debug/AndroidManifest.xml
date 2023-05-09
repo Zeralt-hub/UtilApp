@@ -29,6 +29,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Material3.Light" >
         <activity
+            android:name="com.example.utilapp.calculadora"
+            android:exported="false" />
+        <activity
             android:name="com.example.utilapp.Splash"
             android:exported="true" >
             <intent-filter>

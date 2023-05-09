@@ -1386,6 +1386,7 @@ color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color lavender
 color m3_appbar_overlay_color
 color m3_assist_chip_icon_tint_color
 color m3_assist_chip_stroke_color
@@ -1928,6 +1929,8 @@ color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
+color teal_200
+color teal_700
 color tooltip_background_dark
 color tooltip_background_light
 color white
@@ -2954,6 +2957,17 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id btn0
+id btn1
+id btn2
+id btn3
+id btn4
+id btn5
+id btn6
+id btn7
+id btn8
+id btn9
+id btnPoint
 id btn_login
 id btn_registro
 id buttonPanel
@@ -2973,6 +2987,7 @@ id checkbox
 id checked
 id chronometer
 id circle_center
+id clear
 id clear_text
 id clip_horizontal
 id clip_vertical
@@ -3016,6 +3031,7 @@ id disableIntraAutoTransition
 id disablePostScroll
 id disableScroll
 id disjoint
+id division
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -3037,6 +3053,7 @@ id end
 id endToStart
 id enterAlways
 id enterAlwaysCollapsed
+id equal
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -3082,6 +3099,7 @@ id immediateStop
 id included
 id indeterminate
 id info
+id input
 id invisible
 id inward
 id italic
@@ -3184,6 +3202,7 @@ id off
 id on
 id onInterceptTouchReturnSwipe
 id outline
+id output
 id outward
 id overshoot
 id packed
@@ -3290,6 +3309,7 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id subtract
 id supportScrollUp
 id tabMode
 id tag_accessibility_actions
@@ -3470,12 +3490,14 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_calculadora
 layout activity_login
 layout activity_main
 layout activity_registro
 layout activity_splash
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
+layout buttons_layout
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -4277,6 +4299,7 @@ style Theme_AppCompat_Light_Dialog_MinWidth
 style Theme_AppCompat_Light_DialogWhenLarge
 style Theme_AppCompat_Light_NoActionBar
 style Theme_AppCompat_NoActionBar
+style Theme_Calculator
 style Theme_Design
 style Theme_Design_BottomSheetDialog
 style Theme_Design_Light
@@ -4357,7 +4380,6 @@ style Theme_MaterialComponents_Light_NoActionBar
 style Theme_MaterialComponents_Light_NoActionBar_Bridge
 style Theme_MaterialComponents_NoActionBar
 style Theme_MaterialComponents_NoActionBar_Bridge
-style Theme_UtilApp
 style ThemeOverlay_AppCompat
 style ThemeOverlay_AppCompat_ActionBar
 style ThemeOverlay_AppCompat_Dark

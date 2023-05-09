@@ -1,15 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\drawable_bg_view.xml.flat",
+        "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\drawable\\bg_view.xml"
     },
     {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\layout_activity_login.xml.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\drawable_bg_view.xml.flat",
-        "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\drawable\\bg_view.xml"
+        "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
@@ -80,6 +80,10 @@
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\layout_activity_calculadora.xml.flat",
+        "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\layout\\activity_calculadora.xml"
+    },
+    {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\layout_activity_registro.xml.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\layout\\activity_registro.xml"
     },
@@ -110,5 +114,9 @@
     {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\drawable_numero_2.xml.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\drawable\\numero_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\layout_buttons_layout.xml.flat",
+        "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\layout\\buttons_layout.xml"
     }
 ]
