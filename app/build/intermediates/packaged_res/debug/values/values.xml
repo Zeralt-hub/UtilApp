@@ -3,6 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">UtilApp</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
     <string name="click_para_logearse">Click para logearse</string>
     <string name="click_para_registrarse">Click para Registrarse</string>
     <string name="default_web_client_id" translatable="false">424073213568-cbenqdqgv2sbe531j4jahbnsq36umnf5.apps.googleusercontent.com</string>

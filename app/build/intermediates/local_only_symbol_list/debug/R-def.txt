@@ -2,9 +2,15 @@ R_DEF: Internal format may change without notice
 local
 color black
 color white
+drawable bg_view
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable icono_calculadora
+drawable icono_formula
 drawable imagen
+drawable numero_1
+drawable numero_2
+drawable numero_3
 id btn_login
 id btn_registro
 id email
@@ -14,12 +20,14 @@ id logout
 id password
 id progressBar
 id registerNow
+id top_view
 id user_details
 layout activity_login
 layout activity_main
 layout activity_registro
 layout activity_splash
 string app_name
+string cerrar_sesion
 string click_para_logearse
 string click_para_registrarse
 string default_web_client_id

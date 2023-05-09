@@ -2719,6 +2719,7 @@ int drawable abc_textfield_search_material 0x7f070076
 int drawable abc_vector_test 0x7f070077
 int drawable avd_hide_password 0x7f070078
 int drawable avd_show_password 0x7f070079
+int drawable bg_view 0x7f0700f5
 int drawable btn_checkbox_checked_mtrl 0x7f07007a
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f07007b
 int drawable btn_checkbox_unchecked_mtrl 0x7f07007c
@@ -2767,6 +2768,8 @@ int drawable ic_mtrl_chip_checked_black 0x7f0700a6
 int drawable ic_mtrl_chip_checked_circle 0x7f0700a7
 int drawable ic_mtrl_chip_close_circle 0x7f0700a8
 int drawable ic_search_black_24 0x7f0700a9
+int drawable icono_calculadora 0x7f0700f6
+int drawable icono_formula 0x7f0700f7
 int drawable imagen 0x7f0700f4
 int drawable m3_appbar_background 0x7f0700aa
 int drawable m3_avd_hide_password 0x7f0700ab
@@ -2839,6 +2842,9 @@ int drawable notification_template_icon_bg 0x7f0700ed
 int drawable notification_template_icon_low_bg 0x7f0700ee
 int drawable notification_tile_bg 0x7f0700ef
 int drawable notify_panel_notification_icon_bg 0x7f0700f0
+int drawable numero_1 0x7f0700f8
+int drawable numero_2 0x7f0700f9
+int drawable numero_3 0x7f0700fa
 int drawable test_level_drawable 0x7f0700f1
 int drawable tooltip_frame_dark 0x7f0700f2
 int drawable tooltip_frame_light 0x7f0700f3
@@ -3321,6 +3327,7 @@ int id title_template 0x7f0801da
 int id toggle 0x7f0801db
 int id top 0x7f0801dc
 int id topPanel 0x7f0801dd
+int id top_view 0x7f080202
 int id touch_outside 0x7f0801de
 int id transitionToEnd 0x7f0801df
 int id transitionToStart 0x7f0801e0
@@ -3583,6 +3590,7 @@ int string bottomsheet_action_expand 0x7f100020
 int string bottomsheet_action_expand_halfway 0x7f100021
 int string bottomsheet_drag_handle_clicked 0x7f100022
 int string bottomsheet_drag_handle_content_description 0x7f100023
+int string cerrar_sesion 0x7f1000be
 int string character_counter_content_description 0x7f100024
 int string character_counter_overflowed_content_description 0x7f100025
 int string character_counter_pattern 0x7f100026
