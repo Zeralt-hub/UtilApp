@@ -20,6 +20,10 @@
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\drawable\\icono_calculadora.xml"
     },
     {
+        "merged": "com.example.utilapp-merged_res-33:/drawable_s8qqn7ut7fzgvmiteqcmbg.jpg.flat",
+        "source": "com.example.utilapp-main-35:/drawable/s8qqn7ut7fzgvmiteqcmbg.jpg"
+    },
+    {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-hdpi\\ic_launcher.webp"
     },
@@ -56,8 +60,16 @@
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\drawable\\numero_1.xml"
     },
     {
+        "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\layout_activity_formulas.xml.flat",
+        "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\layout\\activity_formulas.xml"
+    },
+    {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.utilapp-merged_res-33:/drawable_o6orv2tujsgi0x0tznde5g.jpg.flat",
+        "source": "com.example.utilapp-main-35:/drawable/o6orv2tujsgi0x0tznde5g.jpg"
     },
     {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\drawable_numero_3.xml.flat",
@@ -68,12 +80,24 @@
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "com.example.utilapp-merged_res-33:/drawable_images.jpg.flat",
+        "source": "com.example.utilapp-main-35:/drawable/images.jpg"
+    },
+    {
+        "merged": "com.example.utilapp-merged_res-33:/layout_activity_formulas2.xml.flat",
+        "source": "com.example.utilapp-main-35:/layout/activity_formulas2.xml"
+    },
+    {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.utilapp-merged_res-33:/drawable_y.png.flat",
+        "source": "com.example.utilapp-main-35:/drawable/y.png"
     },
     {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -88,10 +112,6 @@
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\layout\\activity_registro.xml"
     },
     {
-        "merged": "com.example.utilapp-merged_res-33:/layout_activity_main.xml.flat",
-        "source": "com.example.utilapp-main-35:/layout/activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-mdpi\\ic_launcher.webp"
     },
@@ -104,12 +124,28 @@
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "com.example.utilapp-merged_res-33:/layout_activity_formulas.xml.flat",
+        "source": "com.example.utilapp-main-35:/layout/activity_formulas.xml"
+    },
+    {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "com.example.utilapp-merged_res-33:/drawable_ecuacion_de_la_velocidad_media.jpg.flat",
+        "source": "com.example.utilapp-main-35:/drawable/ecuacion_de_la_velocidad_media.jpg"
+    },
+    {
+        "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\layout_activity_acerca_de.xml.flat",
+        "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\layout\\activity_acerca_de.xml"
+    },
+    {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\layout_activity_formulas2.xml.flat",
+        "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\layout\\activity_formulas2.xml"
     },
     {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\drawable_numero_2.xml.flat",
@@ -118,5 +154,9 @@
     {
         "merged": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-merged_res-33:\\layout_buttons_layout.xml.flat",
         "source": "C:\\Users\\David\\.gradle\\daemon\\8.0\\com.example.utilapp-main-35:\\layout\\buttons_layout.xml"
+    },
+    {
+        "merged": "com.example.utilapp-merged_res-33:/drawable_formula_de_la_velocidad.jpg.flat",
+        "source": "com.example.utilapp-main-35:/drawable/formula_de_la_velocidad.jpg"
     }
 ]

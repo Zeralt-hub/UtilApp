@@ -2756,6 +2756,8 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ecuacion_de_la_velocidad_media
+drawable formula_de_la_velocidad
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_arrow_back_black_24
@@ -2775,6 +2777,7 @@ drawable ic_search_black_24
 drawable icono_calculadora
 drawable icono_formula
 drawable imagen
+drawable images
 drawable m3_appbar_background
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -2849,9 +2852,12 @@ drawable notify_panel_notification_icon_bg
 drawable numero_1
 drawable numero_2
 drawable numero_3
+drawable o6orv2tujsgi0x0tznde5g
+drawable s8qqn7ut7fzgvmiteqcmbg
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable y
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2866,6 +2872,8 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id about_text
+id about_title
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -2941,6 +2949,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id back_button
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -3490,7 +3499,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_acerca_de
 layout activity_calculadora
+layout activity_formulas
+layout activity_formulas2
 layout activity_login
 layout activity_main
 layout activity_registro

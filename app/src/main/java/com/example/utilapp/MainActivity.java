@@ -1,16 +1,16 @@
 package com.example.utilapp;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
-import com.example.utilapp.calculadora;
+
 
 public class MainActivity extends AppCompatActivity {
     FirebaseAuth auth;
@@ -46,6 +46,22 @@ public class MainActivity extends AppCompatActivity {
 
     public void startCalculadoraActivity(View view) {
         Intent intent = new Intent(this, calculadora.class);
+        startActivity(intent);
+    }
+
+    public void startFormulasActivity(View view) {
+        Intent intent = new Intent(this, Formulas.class);
+        startActivity(intent);
+    }
+
+    public void startFormulas2Activity(View view) {
+        Intent intent = new Intent(this, Formulas2.class);
+        startActivity(intent);
+
+    }
+
+    public void startAcercaDeActivity(View view) {
+        Intent intent = new Intent(this, AcercaDe.class);
         startActivity(intent);
     }
 }

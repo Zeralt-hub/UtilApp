@@ -29,6 +29,15 @@
         android:testOnly="true"
         android:theme="@style/Theme.Material3.Light" >
         <activity
+            android:name="com.example.utilapp.AcercaDe"
+            android:exported="false" />
+        <activity
+            android:name="com.example.utilapp.Formulas2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.utilapp.Formulas"
+            android:exported="false" />
+        <activity
             android:name="com.example.utilapp.calculadora"
             android:exported="false" />
         <activity
