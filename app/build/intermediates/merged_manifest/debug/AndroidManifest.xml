@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.utilapp"
+    package="com.xacarana.utilapp"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="31"
+        android:minSdkVersion="29"
         android:targetSdkVersion="33" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <permission
-        android:name="com.example.utilapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.xacarana.utilapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.utilapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.xacarana.utilapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -24,24 +24,25 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/utilapp"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Material3.Light" >
         <activity
-            android:name="com.example.utilapp.AcercaDe"
+            android:name="com.xacarana.utilapp.AcercaDe"
             android:exported="false" />
         <activity
-            android:name="com.example.utilapp.Formulas2"
+            android:name="com.xacarana.utilapp.Formulas2"
             android:exported="false" />
         <activity
-            android:name="com.example.utilapp.Formulas"
+            android:name="com.xacarana.utilapp.Formulas"
             android:exported="false" />
         <activity
-            android:name="com.example.utilapp.calculadora"
+            android:name="com.xacarana.utilapp.calculadora"
             android:exported="false" />
         <activity
-            android:name="com.example.utilapp.Splash"
+            android:name="com.xacarana.utilapp.Splash"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -50,15 +51,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.utilapp.Registro"
+            android:name="com.xacarana.utilapp.Registro"
             android:exported="false"
             android:theme="@style/Theme.Material3.Light.NoActionBar" />
         <activity
-            android:name="com.example.utilapp.Login"
+            android:name="com.xacarana.utilapp.Login"
             android:exported="false"
             android:theme="@style/Theme.Material3.Light.NoActionBar" />
         <activity
-            android:name="com.example.utilapp.MainActivity"
+            android:name="com.xacarana.utilapp.MainActivity"
             android:exported="true" />
         <activity
             android:name="com.google.firebase.auth.internal.GenericIdpActivity"
@@ -108,7 +109,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.example.utilapp.firebaseinitprovider"
+            android:authorities="com.xacarana.utilapp.firebaseinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
@@ -124,7 +125,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.example.utilapp.androidx-startup"
+            android:authorities="com.xacarana.utilapp.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

@@ -64,6 +64,9 @@ layout activity_main
 layout activity_registro
 layout activity_splash
 layout buttons_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap utilapp
 string app_name
 string cerrar_sesion
 string click_para_logearse
